@@ -1,0 +1,45 @@
+header h2
+{
+    font-family: 'Cambria Math',sans-serif;
+    font-size: 28px;
+    padding: 0.5em 0 0.5em 3.7em;
+}
+
+header h2 span
+{
+    font-family: 'Cambria Math',sans-serif;
+}
+header p{
+    
+    font-family: 'Cambria Math',sans-serif;
+    margin-top: auto;
+    float: left;
+}
+ * {
+  box-sizing: border-box;
+}
+form.Searchbar input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  text-decoration-color: white;
+  border: 1px solid grey;
+  float: right;
+  width: 80%;
+  background: #C5C5C5;
+}
+form.Searchbar input[type=button] {
+  float: right;
+  width: 20%;
+  padding: 10px;
+  background: #F2F2F2;
+  color: #FE4646;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+form.Searchbar::after {
+  content: "";
+  clear: both;
+  display: table;
+}
