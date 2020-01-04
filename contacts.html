@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <title>App Magic</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+    <script src="scripts/script.js"></script>
+    <script src="js/geolocation.js"></script>
+​
+</head>
+<body>
+<div class="wrapper row1">
+    <header id="header" class="clear">
+        <div id="hgroup">
+            <h1><a href="index.html">App Magic</a></h1>
+        </div>
+        <form action="#" method="post">
+            <fieldset>
+                <legend>Search:</legend>
+                <input type="text" value="Enter a search term" onFocus="this.value=(this.value=='Enter a search term')? '' : this.value ;">
+                <input type="submit" id="sf_submit" value="submit">
+            </fieldset>
+        </form>
+        <nav>
+            <ul>
+                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+</div>
+            <section id="section" class="clear">
+                <figure>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46940.16240123476!2d21.12362194138196!3d42.66643785393475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13549ee605110927%3A0x9365bfdf385eb95a!2sPrishtina!5e0!3m2!1sen!2suk!4v1578001313810!5m2!1sen!2suk" width="630" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    <figcaption>
+                        <h2>Second location</h2>
+                        <section class="grid_1">
+                            <p>Company Name<br>
+                                Street Address & Number</br>
+                                Town, PostCode, ZIP</p>
+                            <p>Tel: <br>
+                                xxxxx xxxxxxxxxx</p>
+                            <p>E-mail: <br>
+                                xxxxx xxxxxxxxxx</p>
+                        </section>
+                    </figcaption>
+                </figure>
+            </section>
+    
+<div class="wrapper row3">
+    <footer id="footer" class="clear">
+        <div id="result">
+        </div>
+        <button style="float: right" type="button" onclick="showPosition();">Show Position</button>
+        <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    </footer>
+</div>
+</body>
+</html>
