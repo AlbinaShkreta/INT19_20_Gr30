@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <title>App Magic</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+    <script src="scripts/script.js"></script>
+    <script src="js/geolocation.js"></script>
+
+</head>
+<body>
+<div class="wrapper row1">
+    <header id="header" class="clear">
+        <div id="hgroup">
+            <h1><a href="index.html">App Magic</a></h1>
+        </div>
+        <form action="#" method="post">
+            <fieldset>
+                <legend>Search:</legend>
+                <input type="text" value="Enter a search term" onFocus="this.value=(this.value=='Enter a search term')? '' : this.value ;">
+                <input type="submit" id="sf_submit" value="submit">
+            </fieldset>
+        </form>
+        <nav>
+            <ul>
+                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+</div>
+<div class="wrapper row2">
+    <div id="container" class="clear">
+        <section id="section" class="clear">
+            <figure><img src="images/services.jpg" alt="">
+                <figcaption>
+                    <h2>Eu justo augue estas</h2>
+                    <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat adipiscinia pellentum leo.</p>
+                </figcaption>
+            </figure>
+        </section>
+        <div id="homepage" class="last clear">
+            <section class="grid_3">
+                <h2 class="title">Sherbimi 3</h2>
+                <img class="imgl" src="images/service-1.jpg" width="130" height="130" alt="">
+                <p>Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam.</p>
+            </section>
+            <section class="grid_3">
+                <h2 class="title">Sherbimi 3</h2>
+                <img class="imgl" src="images/service-2.jpg" width="130" height="130" alt="">
+                <p>Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam.</p>
+            </section>
+            <section class="grid_3 lastbox">
+                <h2 class="title">Sherbimi 3</h2>
+                <img class="imgl" src="images/service-3.png" width="130" height="130" alt="">
+                <p>Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam.</p>
+            </section>
+        </div>
+        <br><br>
+
+    </div>
+</div>
+<div class="wrapper row3">
+    <footer id="footer" class="clear">
+        <div id="result">
+        </div>
+        <button style="float: right" type="button" onclick="showPosition();">Show Position</button>
+        <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    </footer>
+</div>
+</body>
+</html>
