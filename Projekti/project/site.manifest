@@ -1,1 +1,30 @@
+CACHE MANIFEST
 
+#version 0.1
+
+index.html
+style.css
+script.js
+about-us.html
+contact.html
+products.html
+services.html
+geolocation.js
+img.jpg
+iphone-2.jpeg
+iphone-3.jpeg
+iphone-4.jpeg
+iphone-5.jpeg
+iphone-6.jpeg
+iphone-7.jpeg
+iphone-8.jpeg
+iphone-10.jpeg
+iphone-11.jpeg
+services.jpg
+product-1.jpg
+button.png
+appstore.png
+misc.xml
+modules.xml
+project.iml
+workspace.xml
