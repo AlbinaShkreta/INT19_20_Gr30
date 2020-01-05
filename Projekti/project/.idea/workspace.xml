@@ -14,7 +14,7 @@
 -<component name="FileEditorManager">
 -<leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/index.html">
+-<entry file="file://$PROJECT_DIR$/../project/index.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="102">
 <caret selection-end-line="7" selection-start-line="6" lean-forward="true" column="41" line="6"/>
@@ -149,17 +149,17 @@
 -<subPane>
 -<expand>
 -<path>
-<item name="etnika-project" type="b2602c69:ProjectViewProjectNode"/>
-<item name="etnika-project" type="462c0819:PsiDirectoryNode"/>
+<item name="project" type="b2602c69:ProjectViewProjectNode"/>
+<item name="project" type="462c0819:PsiDirectoryNode"/>
 </path>
 -<path>
-<item name="etnika-project" type="b2602c69:ProjectViewProjectNode"/>
-<item name="etnika-project" type="462c0819:PsiDirectoryNode"/>
+<item name="project" type="b2602c69:ProjectViewProjectNode"/>
+<item name="project" type="462c0819:PsiDirectoryNode"/>
 <item name="js" type="462c0819:PsiDirectoryNode"/>
 </path>
 -<path>
-<item name="etnika-project" type="b2602c69:ProjectViewProjectNode"/>
-<item name="etnika-project" type="462c0819:PsiDirectoryNode"/>
+<item name="project" type="b2602c69:ProjectViewProjectNode"/>
+<item name="project" type="462c0819:PsiDirectoryNode"/>
 <item name="styles" type="462c0819:PsiDirectoryNode"/>
 </path>
 </expand>
