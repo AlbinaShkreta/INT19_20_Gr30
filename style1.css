@@ -338,3 +338,117 @@ input, textarea, select{
     padding:0;
     list-style:none;
 }
+#container #intro section article figure ul li img{
+    width:130px;
+    height:130px;
+    margin:0;
+    padding:4px;
+    border:1px solid #D6D6D6;
+}
+#container #intro section article figure figcaption{
+    display:block;
+    width:100%;
+    margin-top:20px;
+    clear:both;
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+#container #homepage{
+    display:block;
+    width:100%;
+    line-height:1.6em;
+}
+#container #homepage section{
+    margin-bottom:0;
+}
+#container #homepage section h2.title{
+    margin:0 0 25px 0;
+    padding:0 0 8px 0;
+    font-size:16px;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.red {
+    color: #fc5d63;
+}
+#container #homepage section footer{
+    clear:both;
+}
+#container #homepage section article header h2{
+    font-size:13px;
+    font-weight:bold;
+}
+#container #homepage section article address, #container #homepage section article time{
+    font-size:10px;
+    font-style:normal;
+}
+#container #homepage section article footer{
+    text-align:left;
+}
+#container #homepage section nav li{
+    margin:0 0 8px 0;
+    padding:0 0 5px 0;
+    border-bottom:1px solid #D6D6D6;
+}
+#container #homepage section nav li.last{
+    margin:0;
+}
+#container #homepage section nav a{
+    padding:0 0 0 10px;
+    background:url("../images/arrow.gif") left center no-repeat;
+}
+#footer{
+    padding:20px 0;
+}
+#footer p{
+    margin:0;
+    padding:0;
+}
+
+.grey {
+    color: #000000;
+    background-color: #979797;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+}
+
