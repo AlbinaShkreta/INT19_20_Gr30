@@ -26,7 +26,7 @@
 </entry>
 </file>
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/js/geolocation.js">
+-<entry file="file://$PROJECT_DIR$/../project/js/geolocation.js">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="153">
 <caret selection-end-line="9" selection-start-line="9" column="1" line="9" selection-end-column="1" selection-start-column="1"/>
@@ -35,7 +35,7 @@
 </entry>
 </file>
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/services.html">
+-<entry file="file://$PROJECT_DIR$/../project/services.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -47,7 +47,7 @@
 </entry>
 </file>
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/products.html">
+-<entry file="file://$PROJECT_DIR$/../project/products.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -59,7 +59,7 @@
 </entry>
 </file>
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/contact.html">
+-<entry file="file://$PROJECT_DIR$/../project/contact.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -74,7 +74,7 @@
 </entry>
 </file>
 -<file current-in-tab="true" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/about-us.html">
+-<entry file="file://$PROJECT_DIR$/../project/about-us.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -87,7 +87,7 @@
 </entry>
 </file>
 -<file current-in-tab="false" pinned="false">
--<entry file="file://$PROJECT_DIR$/../etnika-project/styles/style.css">
+-<entry file="file://$PROJECT_DIR$/../project/styles/style.css">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="267">
 <caret selection-end-line="186" selection-start-line="186" lean-forward="true" column="1" line="186" selection-end-column="1" selection-start-column="1"/>
@@ -123,14 +123,14 @@
 <option value="$PROJECT_DIR$/about-us.html"/>
 <option value="$PROJECT_DIR$/index.html"/>
 <option value="$PROJECT_DIR$/services.html"/>
-<option value="$PROJECT_DIR$/../etnika-project/scripts/script.js"/>
-<option value="$PROJECT_DIR$/../etnika-project/js/geolocation.js"/>
-<option value="$PROJECT_DIR$/../etnika-project/styles/style.css"/>
-<option value="$PROJECT_DIR$/../etnika-project/index.html"/>
-<option value="$PROJECT_DIR$/../etnika-project/services.html"/>
-<option value="$PROJECT_DIR$/../etnika-project/products.html"/>
-<option value="$PROJECT_DIR$/../etnika-project/contact.html"/>
-<option value="$PROJECT_DIR$/../etnika-project/about-us.html"/>
+<option value="$PROJECT_DIR$/../project/scripts/script.js"/>
+<option value="$PROJECT_DIR$/../project/js/geolocation.js"/>
+<option value="$PROJECT_DIR$/../project/styles/style.css"/>
+<option value="$PROJECT_DIR$/../project/index.html"/>
+<option value="$PROJECT_DIR$/../project/services.html"/>
+<option value="$PROJECT_DIR$/../project/products.html"/>
+<option value="$PROJECT_DIR$/../project/contact.html"/>
+<option value="$PROJECT_DIR$/../project/about-us.html"/>
 </list>
 </option>
 </component>
@@ -247,24 +247,24 @@
 -<entry file="file://$PROJECT_DIR$/scripts/index.html">
 <provider editor-type-id="text-editor" selected="true"/>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/scripts/script.js">
+-<entry file="file://$PROJECT_DIR$/../project/scripts/script.js">
 <provider editor-type-id="text-editor" selected="true"/>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/styles/style.css">
+-<entry file="file://$PROJECT_DIR$/../project/styles/style.css">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="267">
 <caret selection-end-line="186" selection-start-line="186" lean-forward="true" column="1" line="186" selection-end-column="1" selection-start-column="1"/>
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/js/geolocation.js">
+-<entry file="file://$PROJECT_DIR$/../project/js/geolocation.js">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="153">
 <caret selection-end-line="9" selection-start-line="9" column="1" line="9" selection-end-column="1" selection-start-column="1"/>
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/index.html">
+-<entry file="file://$PROJECT_DIR$/../project/index.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="102">
 <caret selection-end-line="7" selection-start-line="6" lean-forward="true" column="41" line="6"/>
@@ -274,7 +274,7 @@
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/services.html">
+-<entry file="file://$PROJECT_DIR$/../project/services.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -284,7 +284,7 @@
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/products.html">
+-<entry file="file://$PROJECT_DIR$/../project/products.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -294,7 +294,7 @@
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/contact.html">
+-<entry file="file://$PROJECT_DIR$/../project/contact.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
@@ -307,7 +307,7 @@
 </state>
 </provider>
 </entry>
--<entry file="file://$PROJECT_DIR$/../etnika-project/about-us.html">
+-<entry file="file://$PROJECT_DIR$/../project/about-us.html">
 -<provider editor-type-id="text-editor" selected="true">
 -<state relative-caret-position="136">
 <caret selection-end-line="8" selection-start-line="8" line="8"/>
