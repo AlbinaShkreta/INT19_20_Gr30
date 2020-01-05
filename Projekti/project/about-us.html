@@ -6,6 +6,16 @@
     <link rel="stylesheet" href="styles/style.css" type="text/css">
     <script src="scripts/script.js"></script>
     <script src="js/geolocation.js"></script>
+    <script>
+$(document).ready(function(){
+  $("#p1").hover(function(){
+    alert("This is an email address!");
+  },
+  function(){
+    alert("Bye! You now leave Email Address!");
+  }); 
+});
+</script>
 
 </head>
 <body>
@@ -70,7 +80,7 @@
         00010 4569000113</p>
         <p>Fax: <br>
         00020 1092848109</p>
-        <p>E-mail: <br>
+        <p id="p1">E-mail: <br>
          appleonline@gmail.com</p>
             </section>
             <section class="grid_1 lastbox">
